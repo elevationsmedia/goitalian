@@ -1,0 +1,102 @@
+[
+    {
+        "italian": "Ciao",
+        "german": "Hallo",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Grazie",
+        "german": "Danke",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Si",
+        "german": "Ja",
+        "topic": "Basics"
+    },
+    {
+        "italian": "No",
+        "german": "Nein",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Per favore",
+        "german": "Bitte",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Scusa",
+        "german": "Entschuldigung",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Io sono",
+        "german": "Ich bin",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Tu sei",
+        "german": "Du bist",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Lui/Lei è",
+        "german": "Er/Sie ist",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Buongiorno",
+        "german": "Guten Morgen",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Buonasera",
+        "german": "Guten Abend",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Buonanotte",
+        "german": "Gute Nacht",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Come stai?",
+        "german": "Wie geht es dir?",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Bene",
+        "german": "Gut",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Male",
+        "german": "Schlecht",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Così così",
+        "german": "So lala",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Arrivederci",
+        "german": "Auf Wiedersehen",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Mi chiamo",
+        "german": "Ich heiße",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Come ti chiami?",
+        "german": "Wie heißt du?",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Parlo un po' di italiano",
+        "german": "Ich spreche ein wenig Italienisch",
+        "topic": "Basics"
+    }
+]
