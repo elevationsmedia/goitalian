@@ -23,7 +23,7 @@
     {"italian": "C'è un tavolo libero?", "german": "Gibt es einen freien Tisch?", "topic": "Saetze"},
     {"italian": "Posso pagare con la carta?", "german": "Kann ich mit Karte zahlen?", "topic": "Saetze"},
     {"italian": "Posso avere il Wi-Fi?", "german": "Kann ich das WLAN haben?", "topic": "Saetze"},
-    {"italian": "Aiuto!", "german": "Hilfe!", "topic": "Saetze"}
+    {"italian": "Aiuto!", "german": "Hilfe!", "topic": "Saetze"},
     {"italian": "Buongiorno", "german": "Guten Morgen", "topic": "Saetze"},
     {"italian": "Buonasera", "german": "Guten Abend", "topic": "Saetze"},
     {"italian": "Buonanotte", "german": "Gute Nacht", "topic": "Saetze"},
