@@ -2,101 +2,631 @@
     {
         "italian": "Ciao",
         "german": "Hallo",
+        "sentence": "Ciao, come stai?",
+        "sentence-german": "Hallo, wie geht es dir?",
         "topic": "Basics"
     },
     {
         "italian": "Grazie",
         "german": "Danke",
-        "topic": "Basics"
-    },
-    {
-        "italian": "Si",
-        "german": "Ja",
-        "topic": "Basics"
-    },
-    {
-        "italian": "No",
-        "german": "Nein",
+        "sentence": "Grazie mille!",
+        "sentence-german": "Vielen Dank!",
         "topic": "Basics"
     },
     {
         "italian": "Per favore",
         "german": "Bitte",
+        "sentence": "Potresti passarmi il sale, per favore?",
+        "sentence-german": "Könntest du mir das Salz geben, bitte?",
         "topic": "Basics"
     },
     {
-        "italian": "Scusa",
-        "german": "Entschuldigung",
+        "italian": "Si",
+        "german": "Ja",
+        "sentence": "Si, voglio andare là.",
+        "sentence-german": "Ja, ich möchte dort hin gehen.",
         "topic": "Basics"
     },
     {
-        "italian": "Io sono",
-        "german": "Ich bin",
-        "topic": "Basics"
-    },
-    {
-        "italian": "Tu sei",
-        "german": "Du bist",
-        "topic": "Basics"
-    },
-    {
-        "italian": "Lui/Lei è",
-        "german": "Er/Sie ist",
-        "topic": "Basics"
-    },
-    {
-        "italian": "Buongiorno",
-        "german": "Guten Morgen",
-        "topic": "Basics"
-    },
-    {
-        "italian": "Buonasera",
-        "german": "Guten Abend",
-        "topic": "Basics"
-    },
-    {
-        "italian": "Buonanotte",
-        "german": "Gute Nacht",
-        "topic": "Basics"
-    },
-    {
-        "italian": "Come stai?",
-        "german": "Wie geht es dir?",
-        "topic": "Basics"
-    },
-    {
-        "italian": "Bene",
-        "german": "Gut",
-        "topic": "Basics"
-    },
-    {
-        "italian": "Male",
-        "german": "Schlecht",
-        "topic": "Basics"
-    },
-    {
-        "italian": "Così così",
-        "german": "So lala",
-        "topic": "Basics"
-    },
-    {
-        "italian": "Arrivederci",
-        "german": "Auf Wiedersehen",
-        "topic": "Basics"
-    },
-    {
-        "italian": "Mi chiamo",
-        "german": "Ich heiße",
+        "italian": "No",
+        "german": "Nein",
+        "sentence": "No, non mi piace.",
+        "sentence-german": "Nein, das gefällt mir nicht.",
         "topic": "Basics"
     },
     {
         "italian": "Come ti chiami?",
         "german": "Wie heißt du?",
+        "sentence": "Come ti chiami?",
+        "sentence-german": "Wie heißt du?",
         "topic": "Basics"
     },
     {
-        "italian": "Parlo un po' di italiano",
-        "german": "Ich spreche ein wenig Italienisch",
+        "italian": "Mi chiamo...",
+        "german": "Ich heiße...",
+        "sentence": "Mi chiamo Maria.",
+        "sentence-german": "Ich heiße Maria.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Come stai?",
+        "german": "Wie geht es dir?",
+        "sentence": "Come stai oggi?",
+        "sentence-german": "Wie geht es dir heute?",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Bene",
+        "german": "Gut",
+        "sentence": "Sto molto bene, grazie.",
+        "sentence-german": "Mir geht es sehr gut, danke.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Male",
+        "german": "Schlecht",
+        "sentence": "Oggi mi sento male.",
+        "sentence-german": "Heute fühle ich mich schlecht.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Scusa",
+        "german": "Entschuldigung",
+        "sentence": "Scusa, non ho capito.",
+        "sentence-german": "Entschuldigung, ich habe es nicht verstanden.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Dove",
+        "german": "Wo",
+        "sentence": "Dove si trova il bagno?",
+        "sentence-german": "Wo befindet sich die Toilette?",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Quando",
+        "german": "Wann",
+        "sentence": "Quando parte il treno?",
+        "sentence-german": "Wann fährt der Zug ab?",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Perché",
+        "german": "Warum",
+        "sentence": "Perché sei triste?",
+        "sentence-german": "Warum bist du traurig?",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Chi",
+        "german": "Wer",
+        "sentence": "Chi viene alla festa?",
+        "sentence-german": "Wer kommt zur Party?",
+        "topic": "Basics"
+    },
+     {
+        "italian": "Arrivederci",
+        "german": "Auf Wiedersehen",
+        "sentence": "Arrivederci, a domani!",
+        "sentence-german": "Auf Wiedersehen, bis morgen!",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Buongiorno",
+        "german": "Guten Morgen",
+        "sentence": "Buongiorno, signore e signori!",
+        "sentence-german": "Guten Morgen, meine Damen und Herren!",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Buonasera",
+        "german": "Guten Abend",
+        "sentence": "Buonasera, come va?",
+        "sentence-german": "Guten Abend, wie geht's?",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Buonanotte",
+        "german": "Gute Nacht",
+        "sentence": "Buonanotte e sogni d'oro.",
+        "sentence-german": "Gute Nacht und träum süß.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Prego",
+        "german": "Bitte (nach Dank)",
+        "sentence": "Grazie! - Prego!",
+        "sentence-german": "Danke! - Bitte!",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Mi dispiace",
+        "german": "Es tut mir leid",
+        "sentence": "Mi dispiace per il ritardo.",
+        "sentence-german": "Es tut mir leid wegen der Verspätung.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Non capisco",
+        "german": "Ich verstehe nicht",
+        "sentence": "Non capisco, puoi ripetere?",
+        "sentence-german": "Ich verstehe nicht, kannst du das wiederholen?",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Parli inglese?",
+        "german": "Sprichst du Englisch?",
+        "sentence": "Scusa, parli inglese?",
+        "sentence-german": "Entschuldigung, sprichst du Englisch?",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Quanto costa?",
+        "german": "Wie viel kostet das?",
+        "sentence": "Quanto costa questo gelato?",
+        "sentence-german": "Wie viel kostet dieses Eis?",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Dov'è",
+        "german": "Wo ist",
+        "sentence": "Dov'è la stazione?",
+        "sentence-german": "Wo ist der Bahnhof?",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Posso avere",
+        "german": "Kann ich haben",
+        "sentence": "Posso avere il menu, per favore?",
+        "sentence-german": "Kann ich bitte die Speisekarte haben?",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Che ora è?",
+        "german": "Wie spät ist es?",
+        "sentence": "Scusi, che ora è?",
+        "sentence-german": "Entschuldigung, wie spät ist es?",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Sono",
+        "german": "Ich bin",
+        "sentence": "Sono qui per lavoro.",
+        "sentence-german": "Ich bin hier wegen der Arbeit.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Da dove vieni?",
+        "german": "Woher kommst du?",
+        "sentence": "Da dove vieni?",
+        "sentence-german": "Woher kommst du?",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Quanti anni hai?",
+        "german": "Wie alt bist du?",
+        "sentence": "Quanti anni hai?",
+        "sentence-german": "Wie alt bist du?",
+        "topic": "Basics"
+    },
+     {
+        "italian": "Aiuto",
+        "german": "Hilfe",
+        "sentence": "Aiuto! Ho bisogno di assistenza.",
+        "sentence-german": "Hilfe! Ich benötige Unterstützung.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Sto imparando l'italiano",
+        "german": "Ich lerne Italienisch",
+        "sentence": "Sto imparando l'italiano da tre mesi.",
+        "sentence-german": "Ich lerne seit drei Monaten Italienisch.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Posso pagare con carta?",
+        "german": "Kann ich mit Karte zahlen?",
+        "sentence": "Posso pagare con carta in questo negozio?",
+        "sentence-german": "Kann ich in diesem Geschäft mit Karte zahlen?",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Un caffè, per favore",
+        "german": "Einen Kaffee, bitte",
+        "sentence": "Vorrei un caffè, per favore.",
+        "sentence-german": "Ich hätte gerne einen Kaffee, bitte.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Dove posso trovare...",
+        "german": "Wo kann ich finden...",
+        "sentence": "Dove posso trovare un bancomat?",
+        "sentence-german": "Wo kann ich einen Geldautomaten finden?",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Ho bisogno di...",
+        "german": "Ich brauche...",
+        "sentence": "Ho bisogno di un medico.",
+        "sentence-german": "Ich brauche einen Arzt.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Mi piace",
+        "german": "Mir gefällt",
+        "sentence": "Mi piace molto la cucina italiana.",
+        "sentence-german": "Mir gefällt die italienische Küche sehr.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Non mi piace",
+        "german": "Mir gefällt nicht",
+        "sentence": "Non mi piace il freddo.",
+        "sentence-german": "Mir gefällt die Kälte nicht.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Puoi aiutarmi?",
+        "german": "Kannst du mir helfen?",
+        "sentence": "Puoi aiutarmi a trovare questo posto?",
+        "sentence-german": "Kannst du mir helfen, diesen Ort zu finden?",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Ho dimenticato",
+        "german": "Ich habe vergessen",
+        "sentence": "Ho dimenticato dove ho messo le chiavi.",
+        "sentence-german": "Ich habe vergessen, wo ich die Schlüssel hingelegt habe.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Capisco",
+        "german": "Ich verstehe",
+        "sentence": "Capisco ora, grazie.",
+        "sentence-german": "Ich verstehe jetzt, danke.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Non lo so",
+        "german": "Ich weiß es nicht",
+        "sentence": "Non lo so, devo controllare.",
+        "sentence-german": "Ich weiß es nicht, ich muss nachsehen.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Hai ragione",
+        "german": "Du hast Recht",
+        "sentence": "Hai ragione, è proprio così.",
+        "sentence-german": "Du hast Recht, es ist genau so.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Sono d'accordo",
+        "german": "Ich stimme zu",
+        "sentence": "Sono d'accordo con te.",
+        "sentence-german": "Ich stimme dir zu.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Non sono d'accordo",
+        "german": "Ich stimme nicht zu",
+        "sentence": "Non sono d'accordo con questa opinione.",
+        "sentence-german": "Ich stimme dieser Meinung nicht zu.",
+        "topic": "Basics"
+    },
+      {
+        "italian": "Libro",
+        "german": "Buch",
+        "sentence": "Sto leggendo un libro interessante.",
+        "sentence-german": "Ich lese ein interessantes Buch.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Amico",
+        "german": "Freund",
+        "sentence": "Ho un amico italiano.",
+        "sentence-german": "Ich habe einen italienischen Freund.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Città",
+        "german": "Stadt",
+        "sentence": "Questa città è molto bella.",
+        "sentence-german": "Diese Stadt ist sehr schön.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Acqua",
+        "german": "Wasser",
+        "sentence": "Posso avere un bicchiere d'acqua?",
+        "sentence-german": "Kann ich ein Glas Wasser haben?",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Cibo",
+        "german": "Essen",
+        "sentence": "Il cibo italiano è il mio preferito.",
+        "sentence-german": "Italienisches Essen ist mein Favorit.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Strada",
+        "german": "Straße",
+        "sentence": "Dove è la strada per il centro?",
+        "sentence-german": "Wo ist die Straße zum Zentrum?",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Macchina",
+        "german": "Auto",
+        "sentence": "La mia macchina è parcheggiata lì.",
+        "sentence-german": "Mein Auto ist dort geparkt.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Scuola",
+        "german": "Schule",
+        "sentence": "I bambini vanno a scuola ogni giorno.",
+        "sentence-german": "Die Kinder gehen jeden Tag zur Schule.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Treno",
+        "german": "Zug",
+        "sentence": "Prenderemo il treno per Roma.",
+        "sentence-german": "Wir werden den Zug nach Rom nehmen.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Aereo",
+        "german": "Flugzeug",
+        "sentence": "L'aereo parte alle 10.",
+        "sentence-german": "Das Flugzeug startet um 10 Uhr.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Bicicletta",
+        "german": "Fahrrad",
+        "sentence": "Vado al lavoro in bicicletta.",
+        "sentence-german": "Ich fahre mit dem Fahrrad zur Arbeit.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Tempo",
+        "german": "Wetter",
+        "sentence": "Che tempo fa oggi?",
+        "sentence-german": "Wie ist das Wetter heute?",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Sole",
+        "german": "Sonne",
+        "sentence": "Oggi il sole splende.",
+        "sentence-german": "Heute scheint die Sonne.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Pioggia",
+        "german": "Regen",
+        "sentence": "Odio andare fuori quando c'è la pioggia.",
+        "sentence-german": "Ich hasse es, bei Regen rauszugehen.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Casa",
+        "german": "Haus",
+        "sentence": "La mia casa è la tua casa.",
+        "sentence-german": "Mein Haus ist dein Haus.",
+        "topic": "Basics"
+    },
+     {
+        "italian": "Notte",
+        "german": "Nacht",
+        "sentence": "La notte è molto tranquilla.",
+        "sentence-german": "Die Nacht ist sehr ruhig.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Giorno",
+        "german": "Tag",
+        "sentence": "Oggi è un bel giorno.",
+        "sentence-german": "Heute ist ein schöner Tag.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Luce",
+        "german": "Licht",
+        "sentence": "Accendi la luce, per favore.",
+        "sentence-german": "Bitte mach das Licht an.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Oscuro",
+        "german": "Dunkel",
+        "sentence": "La stanza è troppo oscura.",
+        "sentence-german": "Das Zimmer ist zu dunkel.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Mattina",
+        "german": "Morgen",
+        "sentence": "La mattina mi alzo presto.",
+        "sentence-german": "Morgens stehe ich früh auf.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Sera",
+        "german": "Abend",
+        "sentence": "Ci vediamo questa sera.",
+        "sentence-german": "Wir sehen uns heute Abend.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Pomeriggio",
+        "german": "Nachmittag",
+        "sentence": "Nel pomeriggio vado al parco.",
+        "sentence-german": "Am Nachmittag gehe ich in den Park.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Montagna",
+        "german": "Berg",
+        "sentence": "La montagna è alta.",
+        "sentence-german": "Der Berg ist hoch.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Mare",
+        "german": "Meer",
+        "sentence": "D'estate vado sempre al mare.",
+        "sentence-german": "Im Sommer gehe ich immer ans Meer.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Lago",
+        "german": "See",
+        "sentence": "Il lago è tranquillo.",
+        "sentence-german": "Der See ist ruhig.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Fiume",
+        "german": "Fluss",
+        "sentence": "Il fiume scorre lento.",
+        "sentence-german": "Der Fluss fließt langsam.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Foresta",
+        "german": "Wald",
+        "sentence": "La foresta è densa.",
+        "sentence-german": "Der Wald ist dicht.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Albero",
+        "german": "Baum",
+        "sentence": "Quell'albero è molto vecchio.",
+        "sentence-german": "Dieser Baum ist sehr alt.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Fiore",
+        "german": "Blume",
+        "sentence": "Il fiore è rosso.",
+        "sentence-german": "Die Blume ist rot.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Erba",
+        "german": "Gras",
+        "sentence": "L'erba è sempre più verde dall'altra parte.",
+        "sentence-german": "Das Gras ist immer grüner auf der anderen Seite.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Stella",
+        "german": "Stern",
+        "sentence": "La notte si vedono molte stelle.",
+        "sentence-german": "Nachts sieht man viele Sterne.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Cielo",
+        "german": "Himmel",
+        "sentence": "Il cielo è molto azzurro oggi.",
+        "sentence-german": "Der Himmel ist heute sehr blau.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Nuvola",
+        "german": "Wolke",
+        "sentence": "Ci sono poche nuvole nel cielo.",
+        "sentence-german": "Es gibt wenige Wolken am Himmel.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Soleggiato",
+        "german": "Sonnig",
+        "sentence": "Domani sarà una giornata soleggiata.",
+        "sentence-german": "Morgen wird ein sonniger Tag sein.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Ventoso",
+        "german": "Windig",
+        "sentence": "Oggi è una giornata ventosa.",
+        "sentence-german": "Heute ist ein windiger Tag.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Pioggia",
+        "german": "Regen",
+        "sentence": "Domani è prevista pioggia.",
+        "sentence-german": "Für morgen ist Regen vorhergesagt.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Neve",
+        "german": "Schnee",
+        "sentence": "In inverno cade sempre la neve.",
+        "sentence-german": "Im Winter fällt immer Schnee.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Ghiaccio",
+        "german": "Eis",
+        "sentence": "Attenzione al ghiaccio sulla strada.",
+        "sentence-german": "Achtung vor Eis auf der Straße.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Freddo",
+        "german": "Kalt",
+        "sentence": "In inverno fa molto freddo.",
+        "sentence-german": "Im Winter ist es sehr kalt.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Caldo",
+        "german": "Warm",
+        "sentence": "D'estate fa molto caldo.",
+        "sentence-german": "Im Sommer ist es sehr warm.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Fresco",
+        "german": "Frisch",
+        "sentence": "La sera l'aria è più fresca.",
+        "sentence-german": "Abends ist die Luft frischer.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Umidità",
+        "german": "Feuchtigkeit",
+        "sentence": "L'umidità oggi è molto alta.",
+        "sentence-german": "Die Feuchtigkeit ist heute sehr hoch.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Tempesta",
+        "german": "Sturm",
+        "sentence": "Una tempesta si sta avvicinando.",
+        "sentence-german": "Ein Sturm nähert sich.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Arcobaleno",
+        "german": "Regenbogen",
+        "sentence": "Dopo la pioggia appare l'arcobaleno.",
+        "sentence-german": "Nach dem Regen erscheint der Regenbogen.",
+        "topic": "Basics"
+    },
+    {
+        "italian": "Fulmine",
+        "german": "Blitz",
+        "sentence": "Il fulmine ha illuminato il cielo.",
+        "sentence-german": "Der Blitz hat den Himmel erleuchtet.",
         "topic": "Basics"
     }
 ]
