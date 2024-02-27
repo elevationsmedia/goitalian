@@ -28,5 +28,635 @@
     {"italian": "Aceto", "german": "Essig", "topic": "Essen"},
     {"italian": "Zucchero", "german": "Zucker", "topic": "Essen"},
     {"italian": "Latte", "german": "Milch", "topic": "Essen"},
-    {"italian": "Uova", "german": "Eier", "topic": "Essen"}
+    {"italian": "Uova", "german": "Eier", "topic": "Essen"},
+    {
+        "italian": "Pasta",
+        "german": "Nudeln",
+        "sentence": "La pasta è il piatto nazionale italiano.",
+        "sentence-german": "Pasta ist das italienische Nationalgericht.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Pizza",
+        "german": "Pizza",
+        "sentence": "Per cena voglio mangiare una pizza.",
+        "sentence-german": "Zum Abendessen möchte ich eine Pizza essen.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Gelato",
+        "german": "Eiscreme",
+        "sentence": "D'estate mangio spesso gelato.",
+        "sentence-german": "Im Sommer esse ich oft Eiscreme.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Formaggio",
+        "german": "Käse",
+        "sentence": "In Italia ci sono molti tipi di formaggio.",
+        "sentence-german": "In Italien gibt es viele Arten von Käse.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Pane",
+        "german": "Brot",
+        "sentence": "Il pane fresco è delizioso.",
+        "sentence-german": "Frisches Brot ist köstlich.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Vino",
+        "german": "Wein",
+        "sentence": "L'Italia produce ottimi vini.",
+        "sentence-german": "Italien produziert ausgezeichnete Weine.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Acqua",
+        "german": "Wasser",
+        "sentence": "Potrei avere un bicchiere d'acqua?",
+        "sentence-german": "Könnte ich ein Glas Wasser bekommen?",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Pesce",
+        "german": "Fisch",
+        "sentence": "Al ristorante ho ordinato del pesce.",
+        "sentence-german": "Im Restaurant habe ich Fisch bestellt.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Carne",
+        "german": "Fleisch",
+        "sentence": "Non mangio carne, sono vegetariano.",
+        "sentence-german": "Ich esse kein Fleisch, ich bin Vegetarier.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Verdura",
+        "german": "Gemüse",
+        "sentence": "Dovremmo mangiare più verdura.",
+        "sentence-german": "Wir sollten mehr Gemüse essen.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Frutta",
+        "german": "Obst",
+        "sentence": "Mi piace mangiare la frutta a colazione.",
+        "sentence-german": "Ich esse gerne Obst zum Frühstück.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Dolce",
+        "german": "Süßigkeit",
+        "sentence": "Per dessert abbiamo un dolce al cioccolato.",
+        "sentence-german": "Zum Nachtisch haben wir eine Schokoladensüßigkeit.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Caffè",
+        "german": "Kaffee",
+        "sentence": "Dopo pranzo, prendiamo un caffè?",
+        "sentence-german": "Nehmen wir nach dem Mittagessen einen Kaffee?",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Tè",
+        "german": "Tee",
+        "sentence": "Preferisco bere il tè al mattino.",
+        "sentence-german": "Ich bevorzuge es, morgens Tee zu trinken.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Zucchero",
+        "german": "Zucker",
+        "sentence": "Metti lo zucchero nel caffè?",
+        "sentence-german": "Tust du Zucker in den Kaffee?",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Arrosto",
+        "german": "Braten",
+        "sentence": "Per cena abbiamo un arrosto di manzo.",
+        "sentence-german": "Zum Abendessen haben wir einen Rinderbraten.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Insalata",
+        "german": "Salat",
+        "sentence": "Vorrei un'insalata mista come antipasto.",
+        "sentence-german": "Ich hätte gerne einen gemischten Salat als Vorspeise.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Zuppa",
+        "german": "Suppe",
+        "sentence": "La zuppa di pomodoro è il mio piatto preferito.",
+        "sentence-german": "Tomatensuppe ist mein Lieblingsgericht.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Dolce",
+        "german": "Nachtisch",
+        "sentence": "Per dolce, ho preso una torta al cioccolato.",
+        "sentence-german": "Als Nachtisch habe ich einen Schokoladenkuchen genommen.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Frutta",
+        "german": "Obst",
+        "sentence": "Dopo pranzo mangio sempre della frutta.",
+        "sentence-german": "Nach dem Mittagessen esse ich immer Obst.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Verdura",
+        "german": "Gemüse",
+        "sentence": "Dovremmo mangiare più verdura.",
+        "sentence-german": "Wir sollten mehr Gemüse essen.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Formaggio",
+        "german": "Käse",
+        "sentence": "In Italia, il formaggio è una parte essenziale della cucina.",
+        "sentence-german": "In Italien ist Käse ein wesentlicher Bestandteil der Küche.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Pane",
+        "german": "Brot",
+        "sentence": "Il pane fresco è delizioso con un po' di burro.",
+        "sentence-german": "Frisches Brot ist köstlich mit etwas Butter.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Pesce",
+        "german": "Fisch",
+        "sentence": "Stasera mangiamo pesce al forno.",
+        "sentence-german": "Heute Abend essen wir Fisch aus dem Ofen.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Carne",
+        "german": "Fleisch",
+        "sentence": "Preferisco la carne alla griglia.",
+        "sentence-german": "Ich bevorzuge gegrilltes Fleisch.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Pollo",
+        "german": "Huhn",
+        "sentence": "Il pollo al limone è un piatto leggero e gustoso.",
+        "sentence-german": "Hähnchen mit Zitrone ist ein leichtes und schmackhaftes Gericht.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Manzo",
+        "german": "Rind",
+        "sentence": "Il manzo è spesso usato per fare l'arrosto.",
+        "sentence-german": "Rindfleisch wird oft für Braten verwendet.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Maiale",
+        "german": "Schwein",
+        "sentence": "La cotoletta di maiale è molto popolare in Italia.",
+        "sentence-german": "Schweinekotelett ist in Italien sehr beliebt.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Salsiccia",
+        "german": "Wurst",
+        "sentence": "La salsiccia è un ingrediente comune nella pizza italiana.",
+        "sentence-german": "Wurst ist eine häufige Zutat in italienischer Pizza.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Uovo",
+        "german": "Ei",
+        "sentence": "A colazione, mi piace mangiare un uovo sodo.",
+        "sentence-german": "Zum Frühstück esse ich gerne ein gekochtes Ei.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Pasta",
+        "german": "Nudeln",
+        "sentence": "La pasta è un piatto tipico italiano.",
+        "sentence-german": "Nudeln sind ein typisch italienisches Gericht.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Riso",
+        "german": "Reis",
+        "sentence": "Il riso è la base di molti piatti asiatici.",
+        "sentence-german": "Reis ist die Grundlage vieler asiatischer Gerichte.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Gelato",
+        "german": "Eiscreme",
+        "sentence": "A Roma, puoi trovare delizioso gelato artigianale.",
+        "sentence-german": "In Rom kannst du leckeres handgemachtes Eis finden.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Pizza",
+        "german": "Pizza",
+        "sentence": "La pizza Margherita è un classico.",
+        "sentence-german": "Pizza Margherita ist ein Klassiker.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Biscotto",
+        "german": "Keks",
+        "sentence": "Mi piace immergere il biscotto nel latte.",
+        "sentence-german": "Ich mag es, den Keks in Milch zu tauchen.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Torta",
+        "german": "Kuchen",
+        "sentence": "Per il mio compleanno ho preparato una torta al cioccolato.",
+        "sentence-german": "Zu meinem Geburtstag habe ich einen Schokoladenkuchen gebacken.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Vino",
+        "german": "Wein",
+        "sentence": "L'Italia produce alcuni dei migliori vini al mondo.",
+        "sentence-german": "Italien produziert einige der besten Weine der Welt.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Birra",
+        "german": "Bier",
+        "sentence": "Una birra fredda è perfetta in estate.",
+        "sentence-german": "Ein kaltes Bier ist im Sommer perfekt.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Aceto",
+        "german": "Essig",
+        "sentence": "Uso l'aceto balsamico per condire l'insalata.",
+        "sentence-german": "Ich benutze Balsamico-Essig, um den Salat zu würzen.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Olio",
+        "german": "Öl",
+        "sentence": "L'olio di oliva è essenziale nella cucina mediterranea.",
+        "sentence-german": "Olivenöl ist in der mediterranen Küche unverzichtbar.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Sale",
+        "german": "Salz",
+        "sentence": "Aggiungi un pizzico di sale per esaltare il sapore.",
+        "sentence-german": "Füge eine Prise Salz hinzu, um den Geschmack zu verstärken.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Pepe",
+        "german": "Pfeffer",
+        "sentence": "Mi piace il pepe nero sulle uova.",
+        "sentence-german": "Ich mag schwarzen Pfeffer auf den Eiern.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Zucchero",
+        "german": "Zucker",
+        "sentence": "Quanto zucchero metti nel caffè?",
+        "sentence-german": "Wie viel Zucker gibst du in den Kaffee?",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Miele",
+        "german": "Honig",
+        "sentence": "Il miele è un dolcificante naturale.",
+        "sentence-german": "Honig ist ein natürlicher Süßstoff.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Acqua",
+        "german": "Wasser",
+        "sentence": "Bere molta acqua è importante per la salute.",
+        "sentence-german": "Viel Wasser zu trinken ist wichtig für die Gesundheit.",
+        "topic": "Essen"
+    },
+     {
+        "italian": "Formaggio",
+        "german": "Käse",
+        "sentence": "Il formaggio italiano ha una varietà incredibile.",
+        "sentence-german": "Italienischer Käse hat eine unglaubliche Vielfalt.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Prosciutto",
+        "german": "Schinken",
+        "sentence": "Prosciutto crudo è un antipasto popolare in Italia.",
+        "sentence-german": "Rohschinken ist eine beliebte Vorspeise in Italien.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Pollo",
+        "german": "Huhn",
+        "sentence": "Pollo arrosto è un piatto semplice ma delizioso.",
+        "sentence-german": "Brathähnchen ist ein einfaches, aber köstliches Gericht.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Manzo",
+        "german": "Rind",
+        "sentence": "Il manzo è spesso usato nella cucina italiana per fare ragù.",
+        "sentence-german": "Rindfleisch wird oft in der italienischen Küche verwendet, um Ragout zu machen.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Pesce",
+        "german": "Fisch",
+        "sentence": "Il pesce fresco è essenziale per un buon piatto di mare.",
+        "sentence-german": "Frischer Fisch ist für ein gutes Meeresfrüchtegericht unerlässlich.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Frutti di mare",
+        "german": "Meeresfrüchte",
+        "sentence": "I frutti di mare sono popolari lungo la costa italiana.",
+        "sentence-german": "Meeresfrüchte sind entlang der italienischen Küste beliebt.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Verdura",
+        "german": "Gemüse",
+        "sentence": "La verdura fresca rende ogni piatto più sano.",
+        "sentence-german": "Frisches Gemüse macht jedes Gericht gesünder.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Frutta",
+        "german": "Obst",
+        "sentence": "La frutta di stagione è sempre la scelta migliore.",
+        "sentence-german": "Saisonales Obst ist immer die beste Wahl.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Pane",
+        "german": "Brot",
+        "sentence": "Il pane fresco con l'olio d'oliva è delizioso.",
+        "sentence-german": "Frisches Brot mit Olivenöl ist köstlich.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Focaccia",
+        "german": "Focaccia",
+        "sentence": "La focaccia è un tipo di pane italiano molto amato.",
+        "sentence-german": "Focaccia ist eine sehr beliebte Art von italienischem Brot.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Cioccolato",
+        "german": "Schokolade",
+        "sentence": "Il cioccolato italiano è conosciuto per la sua qualità.",
+        "sentence-german": "Italienische Schokolade ist für ihre Qualität bekannt.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Caffè",
+        "german": "Kaffee",
+        "sentence": "Un caffè espresso dopo pranzo è una tradizione italiana.",
+        "sentence-german": "Ein Espresso nach dem Mittagessen ist eine italienische Tradition.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Tè",
+        "german": "Tee",
+        "sentence": "Il tè può essere una bevanda rilassante di sera.",
+        "sentence-german": "Tee kann am Abend ein entspannendes Getränk sein.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Sugo",
+        "german": "Soße",
+        "sentence": "Il sugo di pomodoro è la base per molte ricette italiane.",
+        "sentence-german": "Tomatensoße ist die Basis für viele italienische Rezepte.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Insalata",
+        "german": "Salat",
+        "sentence": "Un'insalata fresca è perfetta come contorno.",
+        "sentence-german": "Ein frischer Salat ist perfekt als Beilage.",
+        "topic": "Essen"
+    },
+     {
+        "italian": "Gelato",
+        "german": "Eis",
+        "sentence": "Il gelato italiano è famoso in tutto il mondo.",
+        "sentence-german": "Italienisches Eis ist weltweit berühmt.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Tiramisù",
+        "german": "Tiramisu",
+        "sentence": "Il tiramisù è un dolce italiano molto apprezzato.",
+        "sentence-german": "Tiramisu ist ein sehr beliebtes italienisches Dessert.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Risotto",
+        "german": "Risotto",
+        "sentence": "Risotto è un piatto italiano a base di riso.",
+        "sentence-german": "Risotto ist ein italienisches Gericht auf Reisbasis.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Pesto",
+        "german": "Pesto",
+        "sentence": "Il pesto è una salsa italiana originaria della Liguria.",
+        "sentence-german": "Pesto ist eine italienische Sauce, die aus Ligurien stammt.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Antipasto",
+        "german": "Vorspeise",
+        "sentence": "L'antipasto italiano prepara il palato per il pasto.",
+        "sentence-german": "Die italienische Vorspeise bereitet den Gaumen auf die Mahlzeit vor.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Zuppa",
+        "german": "Suppe",
+        "sentence": "Una zuppa calda è perfetta nelle giornate fredde.",
+        "sentence-german": "Eine warme Suppe ist perfekt für kalte Tage.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Carbonara",
+        "german": "Carbonara",
+        "sentence": "La carbonara è una ricetta di pasta molto conosciuta.",
+        "sentence-german": "Carbonara ist ein sehr bekanntes Pastarezept.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Arancini",
+        "german": "Arancini",
+        "sentence": "Gli arancini sono palline di riso fritte e ripiene.",
+        "sentence-german": "Arancini sind gefüllte, frittierte Reisbällchen.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Cannoli",
+        "german": "Cannoli",
+        "sentence": "I cannoli sono dolci siciliani ripieni di ricotta.",
+        "sentence-german": "Cannoli sind sizilianische Süßigkeiten, gefüllt mit Ricotta.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Biscotti",
+        "german": "Kekse",
+        "sentence": "I biscotti italiani sono perfetti con il caffè.",
+        "sentence-german": "Italienische Kekse sind perfekt zum Kaffee.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Bruschetta",
+        "german": "Bruschetta",
+        "sentence": "La bruschetta è un antipasto semplice e gustoso.",
+        "sentence-german": "Bruschetta ist eine einfache und köstliche Vorspeise.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Caprese",
+        "german": "Caprese",
+        "sentence": "L'insalata caprese è un piatto estivo leggero e fresco.",
+        "sentence-german": "Caprese-Salat ist ein leichtes und frisches Sommergericht.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Lasagna",
+        "german": "Lasagne",
+        "sentence": "La lasagna è un piatto ricco e confortante.",
+        "sentence-german": "Lasagne ist ein reichhaltiges und tröstliches Gericht.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Gnocchi",
+        "german": "Gnocchi",
+        "sentence": "Gli gnocchi possono essere fatti di patate o di ricotta.",
+        "sentence-german": "Gnocchi können aus Kartoffeln oder Ricotta hergestellt werden.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Panettone",
+        "german": "Panettone",
+        "sentence": "Il panettone è un dolce natalizio tipico italiano.",
+        "sentence-german": "Panettone ist ein typisch italienisches Weihnachtsgebäck.",
+        "topic": "Essen"
+    },
+     {
+        "italian": "Tiramisù",
+        "german": "Tiramisu",
+        "sentence": "Il tiramisù è un famoso dolce italiano a base di caffè.",
+        "sentence-german": "Tiramisu ist ein berühmtes italienisches Dessert auf Kaffeebasis.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Gelato",
+        "german": "Eiscreme",
+        "sentence": "Il gelato italiano è conosciuto in tutto il mondo.",
+        "sentence-german": "Italienisches Eis ist weltweit bekannt.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Risotto",
+        "german": "Risotto",
+        "sentence": "Risotto è un piatto italiano a base di riso.",
+        "sentence-german": "Risotto ist ein italienisches Gericht auf Reisbasis.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Lasagna",
+        "german": "Lasagne",
+        "sentence": "La lasagna è un piatto ricco e saporito.",
+        "sentence-german": "Lasagne ist ein reichhaltiges und schmackhaftes Gericht.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Cannoli",
+        "german": "Cannoli",
+        "sentence": "I cannoli sono dolci siciliani ripieni di ricotta.",
+        "sentence-german": "Cannoli sind sizilianische Süßigkeiten, gefüllt mit Ricotta.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Pesto",
+        "german": "Pesto",
+        "sentence": "Il pesto è una salsa genovese a base di basilico.",
+        "sentence-german": "Pesto ist eine genuesische Soße auf Basilikumbasis.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Carbonara",
+        "german": "Carbonara",
+        "sentence": "La carbonara è un tipico piatto di pasta romano.",
+        "sentence-german": "Carbonara ist ein typisches römisches Nudelgericht.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Biscotti",
+        "german": "Kekse",
+        "sentence": "I biscotti italiani sono perfetti con il caffè.",
+        "sentence-german": "Italienische Kekse sind perfekt mit Kaffee.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Zuppa",
+        "german": "Suppe",
+        "sentence": "Una zuppa calda è confortante nei giorni freddi.",
+        "sentence-german": "Eine warme Suppe ist tröstlich an kalten Tagen.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Polenta",
+        "german": "Polenta",
+        "sentence": "La polenta è un piatto tradizionale del nord Italia.",
+        "sentence-german": "Polenta ist ein traditionelles Gericht aus Norditalien.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Arancini",
+        "german": "Arancini",
+        "sentence": "Gli arancini sono sfere di riso fritte e ripiene.",
+        "sentence-german": "Arancini sind gefüllte und frittierte Reisbällchen.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Panettone",
+        "german": "Panettone",
+        "sentence": "Il panettone è un dolce natalizio milanese.",
+        "sentence-german": "Panettone ist ein Mailänder Weihnachtskuchen.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Affogato",
+        "german": "Affogato",
+        "sentence": "L'affogato al caffè è un dessert semplice ma delizioso.",
+        "sentence-german": "Affogato ist ein einfaches, aber köstliches Dessert.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Frittata",
+        "german": "Frittata",
+        "sentence": "La frittata è una sorta di omelette italiana arricchita con vari ingredienti.",
+        "sentence-german": "Frittata ist eine Art italienisches Omelett, angereichert mit verschiedenen Zutaten.",
+        "topic": "Essen"
+    },
+    {
+        "italian": "Bruschetta",
+        "german": "Bruschetta",
+        "sentence": "La bruschetta con pomodoro è un antipasto fresco e saporito.",
+        "sentence-german": "Bruschetta mit Tomaten ist eine frische und schmackhafte Vorspeise.",
+        "topic": "Essen"
+    }
 ]
